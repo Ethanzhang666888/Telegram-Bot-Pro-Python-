@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Your bot API details
-API_ID = "24583730"
-API_HASH = "cc02358562bc1ebf7999106298defb21"
-BOT_TOKEN = "7504661150:AAElhsvrixOjnIHlurT66fEfed3RggJYlcw"
-GROUP_CHAT_ID = -1002488290395  # Replace with the actual group chat ID you got
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
+GROUP_CHAT_ID = -  # Replace with the actual group chat ID you got
 
 
 # This set will store the user IDs of users who have already been greeted
