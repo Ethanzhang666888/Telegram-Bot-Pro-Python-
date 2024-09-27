@@ -2,12 +2,12 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Your bot API details
-API_ID = "24583730"
-API_HASH = "cc02358562bc1ebf7999106298defb21"
-BOT_TOKEN = "7234753304:AAFY9BKOqjPETb6rpngE1GY6IqHqWfglyEk"
-SERVICE_CITY = "Shanghai"  # Example service city, update as necessary
-CHANNEL_USERNAME = "@PinDaoA1"  # Channel where the order will be sent
-CUSTOMER_SERVICE = "@Ethan666888"  # Customer service contact
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
+SERVICE_CITY = "  # Example service city, update as necessary
+CHANNEL_USERNAME = ""  # Channel where the order will be sent
+CUSTOMER_SERVICE = ""  # Customer service contact
 
 app = Client("bot_b", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
